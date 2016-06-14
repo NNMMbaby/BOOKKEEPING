@@ -1,0 +1,32 @@
+PODS:
+  - Charts (2.2.5):
+    - Charts/Core (= 2.2.5)
+  - Charts/Core (2.2.5)
+  - EZSwiftExtensions (1.4)
+  - Log (0.5)
+  - MJRefresh (3.1.0)
+  - Realm (1.0.0):
+    - Realm/Headers (= 1.0.0)
+  - Realm/Headers (1.0.0)
+  - RealmSwift (1.0.0):
+    - Realm (= 1.0.0)
+  - SnapKit (0.21.0)
+
+DEPENDENCIES:
+  - Charts
+  - EZSwiftExtensions
+  - Log
+  - MJRefresh
+  - RealmSwift
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Charts: b48fcc8d7190de910ff9e9748f5360c8ea7856e5
+  EZSwiftExtensions: db7be0022fce8e92cdfe0fadddaf835fcd9696db
+  Log: 5972312cb85cffbc56407b612936b610eb4af8a5
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  Realm: e15cd8e7c11d3e576f628ba0b7cb855269b4991c
+  RealmSwift: 3229306d020d96f83b335f87a0dcbf2cef0e6a2b
+  SnapKit: 2756fe24b706367af224c9c508d2f9166d03354c
+
+COCOAPODS: 0.39.0
