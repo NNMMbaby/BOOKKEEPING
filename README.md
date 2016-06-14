@@ -1,4 +1,4 @@
-# 二代生活手环
+# 圈子账本
 [![Build Status](https://travis-ci.org/yuhuajun100/CavyLifeBand2.svg)](https://travis-ci.org/yuhuajun100/CavyLifeBand2)
 [![codecov.io](https://codecov.io/github/bay2/CavyLifeBand2/coverage.svg?branch=master)](https://codecov.io/github/bay2/CavyLifeBand2)
 [![codebeat badge](https://codebeat.co/badges/9499764a-e85f-49ba-800f-ca4fcae2ce88)](https://codebeat.co/projects/github-com-bay2-cavylifeband2)
@@ -55,10 +55,3 @@ brew install swiftgen
 . generateDefine.sh
 ```
 
-## 开发文档
-
-- [应用框架](doc/md/framework.md)
-- [手环绑定/连接流程](doc/md/bandbind.md)
-- [UI效果图](doc/md/designsketch.md)
-- [UI界面标注](doc/md/mark.md)
-- [服务器交互接口文档](http://doc.star7th.com/index.php/home/item/show?item_id=512)
