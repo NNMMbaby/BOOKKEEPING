@@ -1,0 +1,9 @@
+Pods/*
+*.xcuserstate
+*.xcbkptlist
+BOOKKEEPING.xcodeproj/xcuserdata/*
+.idea/*
+Podfile.lock
+Gemfile.lock
+
+*.xccheckout
