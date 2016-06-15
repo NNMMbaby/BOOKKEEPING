@@ -1,0 +1,44 @@
+
+MainPageBtn : #FFD954
+MainPageSelectedBtn : #ECBC46
+MainPageBtnText : #B46E00
+
+SignInBackground : #48d299
+SignInNavigationBar : #1dbcff
+SignInMainTextColor : #00000080
+PageIndicatorTintColor : #00000033
+SignInForgotPwdBtnText : #00000066
+SignInPlaceholderText : #00000066
+SignInSplitLine : #00000033
+SignUpProtocolBtn : #125fae
+
+HomeViewMainColor : #48d299
+HomeViewMaskColor : #00000066
+HomeViewLeftHeaderLine : #ffffff80
+HomeViewLeftSelected : #0000001A
+HomeViewUserName : #000000B3
+HomeViewAccount : #00000080
+HomeSleepRingColor : #36f3ff
+HomeStepRingColor : #fff956
+HomeRingViewBackground : #309a6e
+HomeTimeLineLineColor :#e5e5e5
+HomeTimeLinePKCellTextColor : #ff8259
+
+AColor: #ffffff
+BColor: #91e4c2
+CColor: #2b7e5c
+DColor: #3aa87a
+EColor: #585858
+FColor: #8d8d8d
+GColor: #b8b8b8
+HColor: #cccccc
+IColor: #ff7200
+JColor: #ff9138
+KColor: #48d299
+LColor: #e0e0e0
+MColor: #f2f2f2
+NColor: #dddddd
+OColor: #ffd46c
+PColor: #b46e00
+QColor: #ff6749
+RColor: #odcf7f

@@ -1,0 +1,91 @@
+//
+//  Localizable.strings
+//  BOOKKEEPING
+//
+//  Created by Jessica on 16/6/14.
+//  Copyright © 2016年 Jessica. All rights reserved.
+//
+
+// 登录页面
+"SignIn.SignInBtn" = "登录";
+"SignIn.UserNameTextField" = "手机/邮箱";
+"SignIn.PasswdTextField" = "密码";
+"SignIn.title" = "准备开始";
+"SignIn.SignUpItemBtn" = "注册";
+"SignIn.ForgotPasswdBtn" = "忘记了密码？";
+
+// 注册页面
+"SignUp.PhoneRightItemBtn" = "邮箱";
+"SignUp.EmailRightItemBtn" = "手机";
+"SignUp.Title" = "加入";
+"SignUp.PhoneNumTextField" = "手机";
+"SignUp.EmailTextField" = "邮箱";
+"SignUp.SafetyCodeTextField" = "验证码";
+"SignUp.SendSafetyCode" = "发送验证码";
+"SignUp.ProcotolViewTitle" = "我们已经阅读并接受";
+"SignUp.ProcotolViewBtn" = "《服务协议》";
+"SignUp.SignUpBtn" = "注册";
+"SignUp.ReadProcotol" = "请先阅读《服务协议》";
+
+// 忘记密码页面
+"Forgot.Title" = "忘记密码了?";
+"Forgot.PasswdTextField" = "新密码";
+"Forgot.BackTextBtn" = "且慢,我想起来了!";
+"Forgot.finish" = "完成";
+
+
+//账户信息
+"AccountInfo.Title" = "账户信息";
+"AccountInfo.LoginoutButton.Title" = "退出登录";
+"AccountInfo.Photo" = "从手机相册中选择";
+"AccountInfo.Camera" = "拍照";
+"AccountInfo.ChangeNickname.Placeholder" = "输入昵称";
+"AccountInfo.ChangeAddress.Placeholder" = "输入地址";
+
+//相关
+"Relate.About.NavTitle" = "关于";
+"Relate.About.CurrentVersion" = "当前版本";
+"Relate.About.FunctionIntroduce" = "功能介绍";
+"Relate.About.GoOfficialWebsite" = "进入官网";
+"Relate.About.OfficialWebsiteNavTitle" = "官网";
+"Relate.About.CopyrightInfo" = "xx科技 版权所有\nCopyright © 2014-2016 CavyTech\nAll Right Reserved";
+"Relate.About.CopyrightNavTitle" = "版权信息";
+"Relate.About.UseAndPrivate" = "使用条款和隐私政策";
+"Relate.HelpAndFeedback.NavTitle" = "帮助与反馈";
+"Relate.HelpAndFeedback.NavRightBtnTitle" = "意见反馈";
+"Relate.HelpAndFeedback.SendBtnTitle" = "发送";
+"Relate.HelpAndFeedback.TextViewPlaceHolder" = "请描述你的问题或意见";
+
+// Web 错误码定义
+"WebErrorCode.1000" = "请求参数错误";
+"WebErrorCode.1001" = "用户名或密码错误";
+"WebErrorCode.1002" = "手机号码错误";
+"WebErrorCode.1003" = "验证码错误";
+"WebErrorCode.1004" = "修改用户信息失败";
+"WebErrorCode.1005" = "用户已存在";
+"WebErrorCode.1006" = "用户名错误或不存在";
+"WebErrorCode.1007" = "短信验证码发送失败";
+"WebErrorCode.5001" = "系统错误";
+"WebErrorCode.5002" = "数据库错误";
+
+// 用户模块错误定义
+"UserModuleErrorCode.NetError" = "网络不给力，请检查你的网络";
+"UserModuleErrorCode.NetAPIError" = "服务器返回错误";
+"UserModuleErrorCode.PhoneError" = "手机号码错误";
+"UserModuleErrorCode.EmailError" = "邮箱格式错误";
+"UserModuleErrorCode.PasswdError" = "密码6位数或密码大于16位数";
+"UserModuleErrorCode.SecurityError" = "验证码错误";
+"UserModuleErrorCode.UserNameError" = "用户名格式错误";
+"UserModuleErrorCode.PhoneNil" = "手机号码不能为空";
+"UserModuleErrorCode.EmailNil" = "邮箱不能为空";
+"UserModuleErrorCode.PasswdNil" = "密码不能为空";
+"UserModuleErrorCode.SecurityNil" = "验证码不能为空";
+"UserModuleErrorCode.UserNameNil" = "用户名不能为空";
+"UserModuleErrorCode.UserIdNil" = "用户Id不能为空";
+"UserModuleErrorCode.UnknownError" = "未知错误";
+"UserModuleErrorCode.FriendIdNil" = "好友Id不能为空";
+"UserModuleErrorCode.SearchTypeNil" = "搜索类型不能为空";
+"UserModuleErrorCode.ParaNil" = "参数有误";
+"UserModuleErrorCode.ParaError" = "参数有误";
+"UserModuleErrorCode.PhoneNumListNil" = "电话号码列表不能为空";
+
